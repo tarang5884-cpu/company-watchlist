@@ -1,17 +1,17 @@
 # Latest Curiosity Stack Watchlist
 
-**Date**: 23 May 2026  
-**Total Companies**: 15  
+**Date**: 27 May 2026  
+**Total Companies**: 16  
 **Average Audit Score**: 8.4/10
 
 ## Portfolio Overview
-- **Power T&D / Energy Transition**: 73%  
-- **Defense/Aerospace**: 20%  
-- **ESDM/Automation**: 7%
+- **Power T&D / Energy Transition**: 78%  
+- **Defense/Aerospace**: 19%  
+- **ESDM/Automation**: 3%
 
 ---
 
-## Power Cluster (73%)
+## Power Cluster (78%)
 
 | Company              | Focus Area                          | Key Catalyst / Status                          |
 |----------------------|-------------------------------------|------------------------------------------------|
@@ -24,8 +24,9 @@
 | YASH Highvoltage    | Bushings                            | RIP core import substitution                  |
 | SOTL                | Transformer oil                     | Grid expansion volume growth                  |
 | Advait Energy       | Grid stability / BESS / STATCOM     | Reactive power + renewable integration        |
+| **SJVN**            | **Power Generation Core**           | **Record 13,302 MU generation (+25% YoY), 1,730 MW added FY26 (Buxar + solar), 3,926 MW under construction. Buxar full COD imminent. REIA 16 GW pipeline. PAT doubling guidance by FY28.** |
 
-## Defense / Aerospace Cluster (20%)
+## Defense / Aerospace Cluster (19%)
 
 | Company         | Focus Area                        | Key Catalyst / Status                     |
 |-----------------|-----------------------------------|-------------------------------------------|
@@ -34,7 +35,7 @@
 | CFF             | Fluid controls (submarine/defence)| Defence fluid systems orders              |
 | IZMO            | Silicon photonics (izmoMicro)     | Defence/aerospace photonics packaging     |
 
-## ESDM / Automation (7%)
+## ESDM / Automation (3%)
 
 | Company   | Focus Area          | Key Catalyst / Status     |
 |-----------|---------------------|---------------------------|
